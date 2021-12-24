@@ -4,6 +4,6 @@ def fizzbuzz(n):
     return 'Fizz Buzz' if fizz and buzz else 'Fizz' if fizz else 'Buzz' if buzz else n
 
 
-# teste
-num = fizzbuzz(int(input('Digite um número: ')))
+# test
+num = fizzbuzz(int(input('Enter a number: ')))
 print(num)
