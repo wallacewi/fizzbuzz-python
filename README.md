@@ -1,5 +1,5 @@
 # FizzBuzz solved in 3 lines | Python
-***[Click here to acess](https://github.com/wallacewi/fizzbuzz-python/blob/main/fizzbuzz.py)***
+***[Click here to acess the Python file](https://github.com/wallacewi/fizzbuzz-python/blob/main/fizzbuzz.py)***
 
 ### English
 > This problem was solved thanks to the simplicity of the Python language.
@@ -69,4 +69,4 @@ def fizzbuzz(n):
     buzz = True if n % 5 == 0 else False
     return 'Fizz Buzz' if fizz and buzz else 'Fizz' if fizz else 'Buzz' if buzz else n
 ```
-***Awesome! [Click here to acess](https://github.com/wallacewi/fizzbuzz-python/blob/main/fizzbuzz.py)***
+***Awesome! [Click here to acess Python file](https://github.com/wallacewi/fizzbuzz-python/blob/main/fizzbuzz.py)***
