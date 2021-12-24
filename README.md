@@ -30,7 +30,7 @@ def fizzbuzz(n):
     else:
         return n
 ```
-2. Reformat file
+2. Reformat the script correctly
 ```
 def fizzbuzz(n):
     fizz = False 
@@ -48,7 +48,7 @@ def fizzbuzz(n):
     else:
         return n
 ```
-3. Siplify the the if statement of `fizz` and `buzz`
+3. Siplify the if statement of `fizz` and `buzz`
 ```
 def fizzbuzz(n):
     fizz = True if n % 3 == 0 else False
@@ -69,4 +69,5 @@ def fizzbuzz(n):
     buzz = True if n % 5 == 0 else False
     return 'Fizz Buzz' if fizz and buzz else 'Fizz' if fizz else 'Buzz' if buzz else n
 ```
-***Awesome! [Click here to acess Python file](https://github.com/wallacewi/fizzbuzz-python/blob/main/fizzbuzz.py)***
+***Awesome! [Click here to acess Python file](https://github.com/wallacewi/fizzbuzz-python/blob/main/fizzbuzz.py)*** <br>
+> *Want to know how this works, watch this explanation: [link to YouTube [English]](https://youtu.be/QPZ0pIK_wsc)*
