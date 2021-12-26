@@ -2,8 +2,7 @@
 ***[Click here to acess the Python file](https://github.com/wallacewi/fizzbuzz-python/blob/main/fizzbuzz.py)***
 
 ### About
-This problem was solved thanks to the simplicity of the Python language.
-As you will see below, I had to follow a few steps to get to the final code result.
+> This problem was solved thanks to the simplicity of the Python language. As you will see below, I had to follow a few steps to get to the final code result.
 
 This script works like this:
 
@@ -69,5 +68,6 @@ def fizzbuzz(n):
     buzz = True if n % 5 == 0 else False
     return 'Fizz Buzz' if fizz and buzz else 'Fizz' if fizz else 'Buzz' if buzz else n
 ```
-***Awesome! [Click here to acess Python file](https://github.com/wallacewi/fizzbuzz-python/blob/main/fizzbuzz.py)*** <br>
+***Awesome! [Click here to acess Python file](https://github.com/wallacewi/fizzbuzz-python/blob/main/fizzbuzz.py)***
+
 > *Want to know how this works, watch this explanation: [link to YouTube [English]](https://youtu.be/QPZ0pIK_wsc)*
