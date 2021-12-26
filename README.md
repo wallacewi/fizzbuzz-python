@@ -1,15 +1,15 @@
-# FizzBuzz solved in 3 lines | Python
+# FizzBuzz solved in 3 lines - Python solution
 ***[Click here to acess the Python file](https://github.com/wallacewi/fizzbuzz-python/blob/main/fizzbuzz.py)***
 
-### English
-> This problem was solved thanks to the simplicity of the Python language.
-> The `fizzbuzz` function in Python has a very simple code, with only 2 lines to test the number, and one more `return` to return the result depending on whether it meets or the requirements of the if statement.
+### About
+This problem was solved thanks to the simplicity of the Python language.
+As you will see below, I had to follow a few steps to get to the final code result.
 
-***
+This script works like this:
 
-### Português
-> Esse problema foi resolvido graças a simplicidade da linguagem Python.
-> A função em Python `fizzbuzz` possui um código bastante simples, com apenas 2 linhas para testar o número, e mais uma `return` para retornar o resultado dependendo se atende ou os requisitos das if declaradas.
+If the number is only divisible by 3, the function will return 'Fizz'. If the number is divisible only by 5, the function returns 'Buzz'. If the number is divisible by 3 and 5, the function returns 'FizzBuzz'.
+
+So the `fizzbuzz()` function takes a one-number instruction and returns four possible results.
 
 ## Learn the steps to simplify
 1. Initial code
