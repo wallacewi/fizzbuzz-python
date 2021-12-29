@@ -6,7 +6,10 @@
 
 This script works like this:
 
-If the number is only divisible by 3, the function will return 'Fizz'. If the number is divisible only by 5, the function returns 'Buzz'. If the number is divisible by 3 and 5, the function returns 'FizzBuzz'.
+1. If the number is only divisible by 3, the function will return 'Fizz'.
+2. If the number is divisible only by 5, the function returns 'Buzz'.
+3. If the number is divisible by 3 and 5, the function returns 'FizzBuzz'.
+4. Else if of the above, just return the same number.
 
 So the `fizzbuzz()` function takes a one-number instruction and returns four possible results.
 
