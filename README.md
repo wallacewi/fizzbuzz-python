@@ -14,7 +14,7 @@ This script works like this:
 So the `fizzbuzz()` function takes a one-number instruction and returns four possible results.
 
 ## Learn the steps to simplify
-1. Initial code
+1. Initial logic
 ```
 def fizzbuzz(n):
     fizz = False 
@@ -73,4 +73,4 @@ def fizzbuzz(n):
 ```
 ***Awesome! [Click here to acess Python file](https://github.com/wallacewi/fizzbuzz-python/blob/main/fizzbuzz.py)***
 
-> *Want to know how this works, watch this explanation: [link to YouTube [English]](https://youtu.be/QPZ0pIK_wsc)*
+> *Want to know how this works, watch this explanation: [link to YouTube](https://youtu.be/QPZ0pIK_wsc)*
